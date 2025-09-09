@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Navbar from "./components/Navbar";
+import Navbar_Component from "./components/Navbar_Component";
 import "./App.css";
 import { Outlet } from "react-router-dom";
 
@@ -10,7 +10,7 @@ function App() {
     <>
       <div className="">
         {" "}
-        <Navbar></Navbar>
+        <Navbar_Component</Navbar_Component>
       </div>
 <Outlet />
     </>
