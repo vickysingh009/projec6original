@@ -1,0 +1,992 @@
+{
+  "Almirah": [
+    {
+      "id": 1,
+      "name": "Image001",
+      "price": 1310.95,
+      "image": "/All Products/Almirah/type1/image001.png",
+      "angles": [
+        "/All Products/Almirah/type1/image002.png"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Image003",
+      "price": 579.76,
+      "image": "/All Products/Almirah/type2/image003.png",
+      "angles": [
+        "/All Products/Almirah/type2/image004.png"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Image005",
+      "price": 1252.45,
+      "image": "/All Products/Almirah/type3/image005.png",
+      "angles": [
+        "/All Products/Almirah/type3/image006.png"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Image007",
+      "price": 1463.43,
+      "image": "/All Products/Almirah/type4/image007.png",
+      "angles": [
+        "/All Products/Almirah/type4/image008.png"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Image009",
+      "price": 1348.21,
+      "image": "/All Products/Almirah/type5/image009.png",
+      "angles": [
+        "/All Products/Almirah/type5/image010.png"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Image011",
+      "price": 750.29,
+      "image": "/All Products/Almirah/type6/image011.png",
+      "angles": [
+        "/All Products/Almirah/type6/image012.png"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Image013",
+      "price": 1146.31,
+      "image": "/All Products/Almirah/type7/image013.png",
+      "angles": [
+        "/All Products/Almirah/type7/image014.png"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Image015",
+      "price": 500.05,
+      "image": "/All Products/Almirah/type8/image015.png",
+      "angles": [
+        "/All Products/Almirah/type8/image016.png"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Image017",
+      "price": 239.74,
+      "image": "/All Products/Almirah/type9/image017.png",
+      "angles": [
+        "/All Products/Almirah/type9/image018.png"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Image019",
+      "price": 983.02,
+      "image": "/All Products/Almirah/type10/image019.png",
+      "angles": [
+        "/All Products/Almirah/type10/image020.png"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Image021",
+      "price": 675.56,
+      "image": "/All Products/Almirah/type11/image021.png",
+      "angles": [
+        "/All Products/Almirah/type11/image022.png"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Image023",
+      "price": 1079.23,
+      "image": "/All Products/Almirah/type12/image023.png",
+      "angles": [
+        "/All Products/Almirah/type12/image024.png"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Image025",
+      "price": 1092.09,
+      "image": "/All Products/Almirah/type13/image025.png",
+      "angles": [
+        "/All Products/Almirah/type13/image026.png"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Image027",
+      "price": 772.17,
+      "image": "/All Products/Almirah/type14/image027.png",
+      "angles": [
+        "/All Products/Almirah/type14/image028.png"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Image029",
+      "price": 435.54,
+      "image": "/All Products/Almirah/type15/image029.png",
+      "angles": [
+        "/All Products/Almirah/type15/image030.png",
+        "/All Products/Almirah/type15/image031.png"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Image032",
+      "price": 1387.31,
+      "image": "/All Products/Almirah/type16/image032.png",
+      "angles": [
+        "/All Products/Almirah/type16/image033.png",
+        "/All Products/Almirah/type16/image034.png",
+        "/All Products/Almirah/type16/image035.png"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Image036",
+      "price": 241.56,
+      "image": "/All Products/Almirah/type17/image036.png",
+      "angles": [
+        "/All Products/Almirah/type17/image037.png"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Image038",
+      "price": 1227.9,
+      "image": "/All Products/Almirah/type18/image038.png",
+      "angles": [
+        "/All Products/Almirah/type18/image039.png",
+        "/All Products/Almirah/type18/image040.png"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Image041",
+      "price": 476.54,
+      "image": "/All Products/Almirah/type19/image041.png",
+      "angles": [
+        "/All Products/Almirah/type19/image042.png",
+        "/All Products/Almirah/type19/image043.png"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Image044",
+      "price": 662.01,
+      "image": "/All Products/Almirah/type20/image044.png",
+      "angles": [
+        "/All Products/Almirah/type20/image045.png",
+        "/All Products/Almirah/type20/image046.png"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Image047",
+      "price": 1222.45,
+      "image": "/All Products/Almirah/type21/image047.png",
+      "angles": [
+        "/All Products/Almirah/type21/image048.png"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Image049",
+      "price": 911.56,
+      "image": "/All Products/Almirah/type22/image049.png",
+      "angles": [
+        "/All Products/Almirah/type22/image050.png",
+        "/All Products/Almirah/type22/image051.png",
+        "/All Products/Almirah/type22/image052.png",
+        "/All Products/Almirah/type22/image053.png",
+        "/All Products/Almirah/type22/image054.png"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Image055",
+      "price": 791.28,
+      "image": "/All Products/Almirah/type23/image055.png",
+      "angles": [
+        "/All Products/Almirah/type23/image056.png"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Image057",
+      "price": 781.95,
+      "image": "/All Products/Almirah/type24/image057.png",
+      "angles": [
+        "/All Products/Almirah/type24/image058.png"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Image059",
+      "price": 1018.5,
+      "image": "/All Products/Almirah/type25/image059.png",
+      "angles": [
+        "/All Products/Almirah/type25/image060.png",
+        "/All Products/Almirah/type25/image061.png",
+        "/All Products/Almirah/type25/image062.png",
+        "/All Products/Almirah/type25/image063.png"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Image064",
+      "price": 452.05,
+      "image": "/All Products/Almirah/type26/image064.png",
+      "angles": [
+        "/All Products/Almirah/type26/image065.png",
+        "/All Products/Almirah/type26/image066.png",
+        "/All Products/Almirah/type26/image067.png",
+        "/All Products/Almirah/type26/image068.png"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Image069",
+      "price": 173.02,
+      "image": "/All Products/Almirah/type27/image069.png",
+      "angles": [
+        "/All Products/Almirah/type27/image070.png",
+        "/All Products/Almirah/type27/image071.png"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Image072",
+      "price": 1355.49,
+      "image": "/All Products/Almirah/type28/image072.png",
+      "angles": [
+        "/All Products/Almirah/type28/image073.png"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Image074",
+      "price": 1495.97,
+      "image": "/All Products/Almirah/type29/image074.png",
+      "angles": [
+        "/All Products/Almirah/type29/image075.png",
+        "/All Products/Almirah/type29/image076.png"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Image077",
+      "price": 1099.13,
+      "image": "/All Products/Almirah/type30/image077.png",
+      "angles": [
+        "/All Products/Almirah/type30/image078.png",
+        "/All Products/Almirah/type30/image079.png"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Image080",
+      "price": 1424.51,
+      "image": "/All Products/Almirah/type31/image080.png",
+      "angles": [
+        "/All Products/Almirah/type31/image081.png",
+        "/All Products/Almirah/type31/image082.png"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Image083",
+      "price": 295.19,
+      "image": "/All Products/Almirah/type32/image083.png",
+      "angles": [
+        "/All Products/Almirah/type32/image084.png"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Image085",
+      "price": 1279.66,
+      "image": "/All Products/Almirah/type33/image085.png",
+      "angles": [
+        "/All Products/Almirah/type33/image086.png",
+        "/All Products/Almirah/type33/image087.png"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Image088",
+      "price": 253.62,
+      "image": "/All Products/Almirah/type34/image088.png",
+      "angles": [
+        "/All Products/Almirah/type34/image089.png"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Image090",
+      "price": 607.04,
+      "image": "/All Products/Almirah/type35/image090.png",
+      "angles": [
+        "/All Products/Almirah/type35/image091.png",
+        "/All Products/Almirah/type35/image092.png"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Image093",
+      "price": 1075.33,
+      "image": "/All Products/Almirah/type36/image093.png",
+      "angles": [
+        "/All Products/Almirah/type36/image094.png"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Image098",
+      "price": 958.5,
+      "image": "/All Products/Almirah/type38/image098.png",
+      "angles": [
+        "/All Products/Almirah/type38/image099.png",
+        "/All Products/Almirah/type38/image100.png"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Image101",
+      "price": 692.61,
+      "image": "/All Products/Almirah/type39/image101.png",
+      "angles": [
+        "/All Products/Almirah/type39/image102.png"
+      ]
+    }
+  ],
+  "Bed Side": [
+    {
+      "id": 39,
+      "name": "Image001",
+      "price": 331.78,
+      "image": "/All Products/Bed Side/type1/image001.png",
+      "angles": []
+    },
+    {
+      "id": 40,
+      "name": "Image002",
+      "price": 362.0,
+      "image": "/All Products/Bed Side/type2/image002.png",
+      "angles": [
+        "/All Products/Bed Side/type2/image003.png",
+        "/All Products/Bed Side/type2/image004.png"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Image005",
+      "price": 183.54,
+      "image": "/All Products/Bed Side/type3/image005.png",
+      "angles": [
+        "/All Products/Bed Side/type3/image006.png",
+        "/All Products/Bed Side/type3/image007.png"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Image008",
+      "price": 160.88,
+      "image": "/All Products/Bed Side/type4/image008.png",
+      "angles": [
+        "/All Products/Bed Side/type4/image009.png"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Image010",
+      "price": 136.14,
+      "image": "/All Products/Bed Side/type5/image010.png",
+      "angles": [
+        "/All Products/Bed Side/type5/image011.png",
+        "/All Products/Bed Side/type5/image012.png"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Image014",
+      "price": 1000.09,
+      "image": "/All Products/Bed Side/type6/image014.png",
+      "angles": [
+        "/All Products/Bed Side/type6/image015.png"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Image013",
+      "price": 1278.53,
+      "image": "/All Products/Bed Side/type7/image013.png",
+      "angles": [
+        "/All Products/Bed Side/type7/image016.png",
+        "/All Products/Bed Side/type7/image017.png"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Image018",
+      "price": 1259.99,
+      "image": "/All Products/Bed Side/type8/image018.png",
+      "angles": []
+    }
+  ],
+  "Bookshelf": [
+    {
+      "id": 47,
+      "name": "Image001",
+      "price": 172.74,
+      "image": "/All Products/Bookshelf/type1/image001.png",
+      "angles": [
+        "/All Products/Bookshelf/type1/image002.png",
+        "/All Products/Bookshelf/type1/image003.png"
+      ]
+    }
+  ],
+  "Box": [
+    {
+      "id": 48,
+      "name": "Image001",
+      "price": 1034.39,
+      "image": "/All Products/Box/type1/image001.png",
+      "angles": [
+        "/All Products/Box/type1/image002.png"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Image003",
+      "price": 1274.64,
+      "image": "/All Products/Box/type2/image003.png",
+      "angles": [
+        "/All Products/Box/type2/image004.png",
+        "/All Products/Box/type2/image005.png"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Image017",
+      "price": 852.07,
+      "image": "/All Products/Box/type2 varieants/image017.png",
+      "angles": [
+        "/All Products/Box/type2 varieants/image018.png",
+        "/All Products/Box/type2 varieants/image019.png",
+        "/All Products/Box/type2 varieants/image020.png",
+        "/All Products/Box/type2 varieants/image025.png",
+        "/All Products/Box/type2 varieants/image026.png",
+        "/All Products/Box/type2 varieants/image030.png",
+        "/All Products/Box/type2 varieants/image038.png",
+        "/All Products/Box/type2 varieants/image039.png",
+        "/All Products/Box/type2 varieants/image040.png",
+        "/All Products/Box/type2 varieants/image041.png",
+        "/All Products/Box/type2 varieants/image045.png",
+        "/All Products/Box/type2 varieants/image046.png",
+        "/All Products/Box/type2 varieants/image047.png",
+        "/All Products/Box/type2 varieants/image048.png",
+        "/All Products/Box/type2 varieants/image049.png",
+        "/All Products/Box/type2 varieants/image050.png",
+        "/All Products/Box/type2 varieants/image051.png",
+        "/All Products/Box/type2 varieants/image056.png",
+        "/All Products/Box/type2 varieants/image057.png"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Image006",
+      "price": 1113.53,
+      "image": "/All Products/Box/type3/image006.png",
+      "angles": [
+        "/All Products/Box/type3/image007.png"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Image010",
+      "price": 394.68,
+      "image": "/All Products/Box/type5/image010.png",
+      "angles": [
+        "/All Products/Box/type5/image011.png"
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Image012",
+      "price": 109.54,
+      "image": "/All Products/Box/type6/image012.png",
+      "angles": [
+        "/All Products/Box/type6/image013.png",
+        "/All Products/Box/type6/image014.png"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Image015",
+      "price": 799.99,
+      "image": "/All Products/Box/type7/image015.png",
+      "angles": [
+        "/All Products/Box/type7/image016.png"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Image021",
+      "price": 510.65,
+      "image": "/All Products/Box/type8/image021.png",
+      "angles": [
+        "/All Products/Box/type8/image022.png",
+        "/All Products/Box/type8/image033.png",
+        "/All Products/Box/type8/image034.png",
+        "/All Products/Box/type8/image035.png"
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Image023",
+      "price": 757.09,
+      "image": "/All Products/Box/type9/image023.png",
+      "angles": [
+        "/All Products/Box/type9/image024.png",
+        "/All Products/Box/type9/image036.png",
+        "/All Products/Box/type9/image037.png"
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Image042",
+      "price": 1089.73,
+      "image": "/All Products/Box/type10/image042.png",
+      "angles": [
+        "/All Products/Box/type10/image043.png",
+        "/All Products/Box/type10/image044.png"
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Image031",
+      "price": 382.94,
+      "image": "/All Products/Box/type11/image031.png",
+      "angles": [
+        "/All Products/Box/type11/image032.png"
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Image027",
+      "price": 202.69,
+      "image": "/All Products/Box/type12/image027.png",
+      "angles": [
+        "/All Products/Box/type12/image028.png"
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Image052",
+      "price": 1450.55,
+      "image": "/All Products/Box/type13/image052.png",
+      "angles": [
+        "/All Products/Box/type13/image053.png"
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Image054",
+      "price": 167.97,
+      "image": "/All Products/Box/type14/image054.png",
+      "angles": [
+        "/All Products/Box/type14/image055.png"
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Image058",
+      "price": 823.79,
+      "image": "/All Products/Box/type15/image058.png",
+      "angles": [
+        "/All Products/Box/type15/image059.png",
+        "/All Products/Box/type15/image060.png"
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Image061",
+      "price": 755.35,
+      "image": "/All Products/Box/type16/image061.png",
+      "angles": [
+        "/All Products/Box/type16/image062.png"
+      ]
+    }
+  ],
+  "SideBoard": [
+    {
+      "id": 64,
+      "name": "Image001",
+      "price": 705.26,
+      "image": "/All Products/SideBoard/type1/image001.png",
+      "angles": [
+        "/All Products/SideBoard/type1/image002.png",
+        "/All Products/SideBoard/type1/image003.png"
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Image004",
+      "price": 1443.59,
+      "image": "/All Products/SideBoard/type2/image004.png",
+      "angles": [
+        "/All Products/SideBoard/type2/image005.png",
+        "/All Products/SideBoard/type2/image006.png"
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Image007",
+      "price": 1224.76,
+      "image": "/All Products/SideBoard/type3/image007.png",
+      "angles": [
+        "/All Products/SideBoard/type3/image008.png"
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Image009",
+      "price": 920.72,
+      "image": "/All Products/SideBoard/type4/image009.png",
+      "angles": [
+        "/All Products/SideBoard/type4/image010.png"
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Image011",
+      "price": 1353.85,
+      "image": "/All Products/SideBoard/type5/image011.png",
+      "angles": [
+        "/All Products/SideBoard/type5/image012.png"
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Image013",
+      "price": 1054.34,
+      "image": "/All Products/SideBoard/type6/image013.png",
+      "angles": [
+        "/All Products/SideBoard/type6/image014.png"
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Image016",
+      "price": 285.29,
+      "image": "/All Products/SideBoard/type7/image016.png",
+      "angles": [
+        "/All Products/SideBoard/type7/image017.png"
+      ]
+    },
+    {
+      "id": 71,
+      "name": "Image018",
+      "price": 1341.83,
+      "image": "/All Products/SideBoard/type8/image018.png",
+      "angles": [
+        "/All Products/SideBoard/type8/image019.png"
+      ]
+    },
+    {
+      "id": 72,
+      "name": "Image020",
+      "price": 1222.94,
+      "image": "/All Products/SideBoard/type9/image020.png",
+      "angles": [
+        "/All Products/SideBoard/type9/image021.png"
+      ]
+    },
+    {
+      "id": 73,
+      "name": "Image022",
+      "price": 1268.89,
+      "image": "/All Products/SideBoard/type10/image022.png",
+      "angles": [
+        "/All Products/SideBoard/type10/image023.png"
+      ]
+    },
+    {
+      "id": 74,
+      "name": "Image025",
+      "price": 636.15,
+      "image": "/All Products/SideBoard/type11/image025.png",
+      "angles": [
+        "/All Products/SideBoard/type11/image026.png"
+      ]
+    },
+    {
+      "id": 75,
+      "name": "Image027",
+      "price": 524.72,
+      "image": "/All Products/SideBoard/type12/image027.png",
+      "angles": [
+        "/All Products/SideBoard/type12/image028.png",
+        "/All Products/SideBoard/type12/image029.png"
+      ]
+    },
+    {
+      "id": 76,
+      "name": "Image030",
+      "price": 699.37,
+      "image": "/All Products/SideBoard/type13/image030.png",
+      "angles": [
+        "/All Products/SideBoard/type13/image031.png"
+      ]
+    },
+    {
+      "id": 77,
+      "name": "Image033",
+      "price": 772.29,
+      "image": "/All Products/SideBoard/type14/image033.png",
+      "angles": [
+        "/All Products/SideBoard/type14/image034.png",
+        "/All Products/SideBoard/type14/image035.png"
+      ]
+    },
+    {
+      "id": 78,
+      "name": "Image032",
+      "price": 1111.43,
+      "image": "/All Products/SideBoard/type15/image032.png",
+      "angles": []
+    },
+    {
+      "id": 79,
+      "name": "Image038",
+      "price": 1085.14,
+      "image": "/All Products/SideBoard/type16/image038.png",
+      "angles": [
+        "/All Products/SideBoard/type16/image039.png"
+      ]
+    },
+    {
+      "id": 80,
+      "name": "Image040",
+      "price": 893.87,
+      "image": "/All Products/SideBoard/type17/image040.png",
+      "angles": [
+        "/All Products/SideBoard/type17/image041.png"
+      ]
+    },
+    {
+      "id": 81,
+      "name": "Image042",
+      "price": 1105.62,
+      "image": "/All Products/SideBoard/type18/image042.png",
+      "angles": [
+        "/All Products/SideBoard/type18/image043.png",
+        "/All Products/SideBoard/type18/image085.png"
+      ]
+    },
+    {
+      "id": 82,
+      "name": "Image044",
+      "price": 454.46,
+      "image": "/All Products/SideBoard/type19/image044.png",
+      "angles": [
+        "/All Products/SideBoard/type19/image045.png",
+        "/All Products/SideBoard/type19/image046.png"
+      ]
+    },
+    {
+      "id": 83,
+      "name": "Image047",
+      "price": 1266.6,
+      "image": "/All Products/SideBoard/type20/image047.png",
+      "angles": [
+        "/All Products/SideBoard/type20/image048.png",
+        "/All Products/SideBoard/type20/image049.png",
+        "/All Products/SideBoard/type20/image050.png"
+      ]
+    },
+    {
+      "id": 84,
+      "name": "Image051",
+      "price": 178.52,
+      "image": "/All Products/SideBoard/type21/image051.png",
+      "angles": [
+        "/All Products/SideBoard/type21/image052.png"
+      ]
+    },
+    {
+      "id": 85,
+      "name": "Image053",
+      "price": 1192.75,
+      "image": "/All Products/SideBoard/type22/image053.png",
+      "angles": [
+        "/All Products/SideBoard/type22/image054.png",
+        "/All Products/SideBoard/type22/image055.png"
+      ]
+    },
+    {
+      "id": 86,
+      "name": "Image056",
+      "price": 1072.19,
+      "image": "/All Products/SideBoard/type23/image056.png",
+      "angles": [
+        "/All Products/SideBoard/type23/image057.png"
+      ]
+    },
+    {
+      "id": 87,
+      "name": "Image058",
+      "price": 1154.21,
+      "image": "/All Products/SideBoard/type24/image058.png",
+      "angles": [
+        "/All Products/SideBoard/type24/image059.png"
+      ]
+    },
+    {
+      "id": 88,
+      "name": "Image060",
+      "price": 641.74,
+      "image": "/All Products/SideBoard/type25/image060.png",
+      "angles": [
+        "/All Products/SideBoard/type25/image061.png",
+        "/All Products/SideBoard/type25/image062.png"
+      ]
+    },
+    {
+      "id": 89,
+      "name": "Image063",
+      "price": 1109.39,
+      "image": "/All Products/SideBoard/type26/image063.png",
+      "angles": [
+        "/All Products/SideBoard/type26/image064.png",
+        "/All Products/SideBoard/type26/image065.png"
+      ]
+    },
+    {
+      "id": 90,
+      "name": "Image066",
+      "price": 758.88,
+      "image": "/All Products/SideBoard/type27/image066.png",
+      "angles": [
+        "/All Products/SideBoard/type27/image067.png",
+        "/All Products/SideBoard/type27/image068.png",
+        "/All Products/SideBoard/type27/image069.png"
+      ]
+    },
+    {
+      "id": 91,
+      "name": "Image070",
+      "price": 350.12,
+      "image": "/All Products/SideBoard/type28/image070.png",
+      "angles": [
+        "/All Products/SideBoard/type28/image071.png"
+      ]
+    },
+    {
+      "id": 92,
+      "name": "Image072",
+      "price": 1155.04,
+      "image": "/All Products/SideBoard/type29/image072.png",
+      "angles": [
+        "/All Products/SideBoard/type29/image073.png",
+        "/All Products/SideBoard/type29/image074.png",
+        "/All Products/SideBoard/type29/image075.png",
+        "/All Products/SideBoard/type29/image076.png"
+      ]
+    },
+    {
+      "id": 93,
+      "name": "Image077",
+      "price": 1039.75,
+      "image": "/All Products/SideBoard/type30/image077.png",
+      "angles": [
+        "/All Products/SideBoard/type30/image078.png"
+      ]
+    },
+    {
+      "id": 94,
+      "name": "Image081",
+      "price": 729.0,
+      "image": "/All Products/SideBoard/type31/image081.png",
+      "angles": [
+        "/All Products/SideBoard/type31/image082.png",
+        "/All Products/SideBoard/type31/image083.png",
+        "/All Products/SideBoard/type31/image084.png"
+      ]
+    },
+    {
+      "id": 95,
+      "name": "Image079",
+      "price": 690.37,
+      "image": "/All Products/SideBoard/type32/image079.png",
+      "angles": [
+        "/All Products/SideBoard/type32/image080.png"
+      ]
+    }
+  ],
+  "Table": [
+    {
+      "id": 96,
+      "name": "Image001",
+      "price": 1086.12,
+      "image": "/All Products/Table/type1/image001.png",
+      "angles": [
+        "/All Products/Table/type1/image002.png"
+      ]
+    },
+    {
+      "id": 97,
+      "name": "Image003",
+      "price": 757.76,
+      "image": "/All Products/Table/type2/image003.png",
+      "angles": [
+        "/All Products/Table/type2/image004.png",
+        "/All Products/Table/type2/image005.png"
+      ]
+    },
+    {
+      "id": 98,
+      "name": "Image006",
+      "price": 161.7,
+      "image": "/All Products/Table/type3/image006.png",
+      "angles": [
+        "/All Products/Table/type3/image007.png"
+      ]
+    },
+    {
+      "id": 99,
+      "name": "Image008",
+      "price": 891.34,
+      "image": "/All Products/Table/type4/image008.png",
+      "angles": [
+        "/All Products/Table/type4/image009.png"
+      ]
+    },
+    {
+      "id": 100,
+      "name": "Image010",
+      "price": 694.27,
+      "image": "/All Products/Table/type5/image010.png",
+      "angles": [
+        "/All Products/Table/type5/image011.png",
+        "/All Products/Table/type5/image012.png"
+      ]
+    },
+    {
+      "id": 101,
+      "name": "Image013",
+      "price": 134.65,
+      "image": "/All Products/Table/type6/image013.png",
+      "angles": [
+        "/All Products/Table/type6/image014.png"
+      ]
+    }
+  ]
+}

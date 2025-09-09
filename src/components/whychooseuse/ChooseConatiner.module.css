@@ -1,0 +1,25 @@
+/* ChooseConatiner.module.css */
+
+.CooseContainer {
+  /* fallback styles (desktop) */
+  max-width: 100%;
+}
+
+/* Optional: Responsive Image Tweaks */
+@media (max-width: 1024px) {
+  .chooseImg {
+    height: 25rem;
+  }
+
+  .overlayImg {
+    width: 40%;
+    height: auto;
+  }
+}
+
+@media (max-width: 768px) {
+  .overlayImg {
+    width: 60%;
+    bottom: 5%;
+  }
+}

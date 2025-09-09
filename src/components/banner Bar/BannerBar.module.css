@@ -1,0 +1,32 @@
+.bannerBarContainer {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  padding: 0 1rem;
+  margin-top: -3rem;
+  z-index: 10;
+}
+
+.bannerBarContent {
+  background-color: #ffffff;
+  border-radius: .4rem;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  padding: 1.5rem 2rem;
+  max-width: 80rem;
+  width: 100%;
+}
+
+
+
+
+
+
+
+
+
+/* 🔒 Hide the entire banner bar if screen width > 1300px */
+@media (max-width: 1300px) {
+  .bannerBarContainer {
+    display: none;
+  }
+}
