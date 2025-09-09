@@ -10,7 +10,7 @@ function App() {
     <>
       <div className="">
         {" "}
-        <Navbar_Component</Navbar_Component>
+        <Navbar_Component></Navbar_Component>
       </div>
 <Outlet />
     </>
