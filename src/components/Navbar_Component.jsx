@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Menu, X, ShoppingCart, Search } from "lucide-react";
 import { NavLink } from "react-router-dom";
 
-export default function Navbar() {
+export default function Navbar_Component() {
   const [isOpen, setIsOpen] = useState(false);
   const [isSearchOpen, setIsSearchOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState("");
